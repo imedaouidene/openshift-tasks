@@ -8,7 +8,7 @@
      <server>
         <id>nexus3</id>
         <username>admin</username>
-        <password>admin123</password>
+        <password>redhat</password>
      </server>
   </servers>
   <mirrors>
